@@ -1,3 +1,3 @@
 # testimonial-page-for-interview
-# Only Desktop Screen Design Not Responsive
+# Only Desktop Screen Design - Not Responsive
 
